@@ -1,0 +1,19 @@
+{
+  "users_list": [
+    {
+      "username": "18810217312",
+      "password": "inamlin0808"
+    },
+    {
+      "username": "18974652562",
+      "password": "1171460872nn"
+    },
+    {
+      "username": "13366321690",
+      "password": "19892951690nn"
+    }
+  ],
+  "start_time" : [2020,1,1],
+  "end_time" : [2020,2,1],
+  "type_list" : ["新能源","制造业"]
+}
